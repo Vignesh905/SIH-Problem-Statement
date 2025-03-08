@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop  
-**Date:** 06/03/2025  
-**Register Number:** 212224040358  
-**Name:** P.VIGNESHWARAN  
+**Date:** 09/03/2025  
+**Register Number:** 212224040229 
+**Name:** PALADI VENKATESH VIGNESH
 
 ---
 
@@ -91,5 +91,3 @@ The proposed system will:
 - **Budget:** ₹80,000  
 
 ---
-
-This unique idea ensures a more efficient, automated, and bias-free recruitment process while significantly reducing the time and effort required for hiring. 🚀
